@@ -1,0 +1,19 @@
+{
+	"name": "converter",
+	"version": "1.0.0",
+	"main": "main.js",
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"csvjson": "^5.1.0",
+		"js-yaml": "^3.14.0"
+	},
+	"bin": {
+		"convert": "./bin/main.js"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"description": ""
+}
